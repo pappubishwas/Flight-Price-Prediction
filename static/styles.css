@@ -1,0 +1,30 @@
+body {
+    background-color: #1dcfc6;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #ac1515;
+}
+
+a {
+    color: #f9f4f1;
+    
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+
+  .card {
+    border-radius: 2rem;
+    color: aliceblue;
+    background-color: black;
+    font-size: 1rem;
+  }
+
+  #idbtn{
+    padding-inline: 4rem;
+    font-size: 2rem;
+    border-radius: 1rem;
+  }
